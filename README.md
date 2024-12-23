@@ -1,4 +1,4 @@
-# Tetralogue Logogram Generator 
+# Economises Logogram Generator 
 
 **Transform Text into Cryptic Logograms with Python**
 
