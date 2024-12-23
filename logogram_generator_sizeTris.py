@@ -2,6 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import math
 
 
+
 def distance(ax, ay, bx, by):
     return math.sqrt((by - ay)**2 + (bx - ax)**2)
 
