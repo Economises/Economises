@@ -24,7 +24,7 @@ I am aware that the logogram is called "Tetra"-logue, which is a combining form 
 2. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/strumberr/tetralogue-logogram.git
+    git clone https://github.com/Economises/Economises.git
     cd tetralogue-logogram
     ```
 
@@ -59,4 +59,4 @@ This project is under the MIT License - see the [LICENSE](LICENSE) file for deta
 
 ---
 
-*The Logogram Generator blends artistry and cryptography to create compelling visual representations of text. Experiment and share your logograms with the world! For questions or issues*
+*The  Economises Logogram Generator blends artistry and cryptography to create compelling visual representations of text. Experiment and share your logograms with the world! For questions or issues*
