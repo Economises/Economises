@@ -11,7 +11,7 @@ Input (String): "crypt"
 ![alt text](assets/tetralogue.png)
 Logogram: [logogram.png](assets/tetralogue.png)
 
-https://github.com/strumberr/tetralogue-logogram/assets/82328097/44c863cb-3749-47a5-b0be-3c797d420727
+https://github.com/Economises/Economises-Logogram/blob/main/output.avi
 
 I am aware that the logogram is called "Tetra"-logue, which is a combining form meaning “four". But thats part of the joke.
 
