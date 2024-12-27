@@ -44,7 +44,6 @@ array_triangles_coords = {}
 
 horizontal_spacing = triangle_size
 
-# Calculate the radius of the circle
 radius = min(WIDTH, HEIGHT) / 6
 
 # Calculate the angle between each triangle
